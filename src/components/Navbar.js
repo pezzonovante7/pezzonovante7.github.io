@@ -1,6 +1,6 @@
 import React from "react"
 import logo from "../assets/logo.svg"
-import bsj from "../assets/final.png"
+import bsj from "../assets/dave.svg"
 import { FaAlignRight } from "react-icons/fa"
 import PageLinks from "../constants/links"
 const Navbar = ({ toggleSidebar }) => {
