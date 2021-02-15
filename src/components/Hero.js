@@ -6,7 +6,7 @@ import SocialLinks from "../constants/socialLinks"
 
 const query = graphql`
     {
-      file(relativePath: {eq: "vector-teal.png"}) {
+      file(relativePath: {eq: "dave.svg"}) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
