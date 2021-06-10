@@ -22,7 +22,7 @@ const data = [
   {
     id: 3,
     icon: <FaTwitterSquare className="social-icon"></FaTwitterSquare>,
-    url: "https://twitter.com/jagadeeshbsj",
+    url: "https://twitter.com/vector_teal",
   },
   {
     id: 4,
