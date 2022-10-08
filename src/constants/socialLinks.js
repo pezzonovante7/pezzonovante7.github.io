@@ -26,7 +26,7 @@ const data = [
   },
   {
     id: 4,
-    icon: <FaRedditSquare className="social-icon"></FaInstagramSquare>,
+    icon: <FaRedditSquare className="social-icon"></FaRedditSquare>,
     url: "https://www.reddit.com/user/pezzonovante7",
   },
   {
